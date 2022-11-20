@@ -1,0 +1,41 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+  position: sticky;
+  width: 100%;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: rgb(195, 0, 255);
+  transition: 0.5s ease-in-out;
+}
+
+.navbar {
+  overflow: hidden;
+  margin-top: 20px;
+  font-family: 'poppins';
+  font-size: small;
+  max-width: 2000px;
+}
+
+.Logostyle {
+  width: 250px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 500px;
+}

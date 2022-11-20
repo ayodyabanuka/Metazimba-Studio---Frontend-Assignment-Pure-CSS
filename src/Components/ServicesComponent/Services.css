@@ -1,0 +1,36 @@
+.servicemain {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.servicetxt {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.servicetxt h1 {
+  font-size: 60px;
+  font-family: 'Bennet-Text-Four';
+  margin-top: 200px;
+  margin-right: 60px;
+  color: #202020;
+  text-align: left;
+}
+
+.servicetxt p {
+  font-family: 'Montserrat';
+  text-align: left;
+  margin-top: 30px;
+  font-size: 20px;
+}
+.seemore {
+  background-color: #4c006b;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 40px 2px;
+  cursor: pointer;
+}

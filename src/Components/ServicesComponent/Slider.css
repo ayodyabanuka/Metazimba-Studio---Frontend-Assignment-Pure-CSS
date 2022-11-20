@@ -1,0 +1,64 @@
+.sliderservices {
+  padding: 100px;
+  margin-top: 180px;
+  background-color: rgb(0, 0, 0);
+  background-image: url('../../Assets/back3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.columnslider {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.349);
+  transition: 0.3s;
+  width: 250px;
+  height: 400px;
+  align-content: center;
+  border-radius: 35px;
+  background-color: rgb(255, 255, 255);
+}
+
+.card:hover {
+  box-shadow: 0px 10px 10px 10px rgba(0, 0, 0, 0.164);
+}
+img {
+  width: 80%;
+}
+
+.cardimage {
+  border-radius: 5px 5px 0 0;
+  margin-left: auto;
+}
+
+.containerslider {
+  padding: 2px 16px;
+  text-align: center;
+}
+.containerslider h4 {
+  font-size: 16px;
+}
+.containerslider p {
+  font-size: 12px;
+}
+
+#servicesheading h1 {
+  font-size: 70px;
+  font-family: 'Bennet-Text-Four';
+  color: #000000;
+  text-align: left;
+  text-align: center;
+}
+.grid-container {
+  margin-top: 70px;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
